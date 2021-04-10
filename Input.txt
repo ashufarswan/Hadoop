@@ -1,0 +1,7 @@
+Mango Strawberry Apple Oranges Banana Grapes Apple Banana Grapes
+Apple Banana Grapes Oranges Apple Banana Grapes
+Apple Mango Mango Strawberry Banana Grapes
+Apple Banana Grapes Mango Strawberry
+Apple Oranges Banana Grapes Oranges Apple Banana Grapes
+Apple Mango Strawberry Banana Grapes
+Strawberry Apple Banana Oranges Grapes Apple Banana Oranges Grapes
