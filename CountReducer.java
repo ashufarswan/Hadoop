@@ -16,7 +16,7 @@ public class CountReducer extends Reducer<Text, IntWritable, Text, IntWritable>{
 			
 		}
 		if(key.equals("Apple")||key.equals("Banana")||key.equals("Grapes")){
-			context.write(new Text(key),new IntWritable(1));
+			context.write(new Text(key),new IntWritable(y));
 		}
 		
 		
